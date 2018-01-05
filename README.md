@@ -1,6 +1,15 @@
 # A-toy-Linear-Regression-with-R for quantities finance starters
 In this project, I will use R programming to finish a toy linear regression analysis to an excel dataset. I decided to write this because two of my friends meet huge problems when they just start their career as quants in VC and they just know nothing about R. The R code that their boss give them are poorly organized and would be very hard to be used as references. 
 
+This is an R-program. There is an integrated one as well many components. 
+
+For more details, please refer to these two books:
+1. Julian Faraway. Linear models with R. 
+https://www.amazon.com/Linear-Models-Chapman-Statistical-Science/dp/1584884258
+2. http://daviddalpiaz.github.io/appliedstats/
+3. Chinese book: 汤银才：R语言与统计分析
+
+Something not useful for you:
 As an experienced technical entrepreneur(I started my first high-tech startup when I was 20), I really know the significance of using qualitative methods in finance. But I also believe that, for finance, that is a not merely a method to make money. You should take finance as a method to boost the economy and the society. As a technical guy I am gladly to assist you with programming and mathematical tricks. 
 
 And please remember, in your future career, assist those technical startup entrepreneurs, just like me. Finance is not merely a tool for you to become rich. 
@@ -15,5 +24,5 @@ I think it is possible to use this code for:
 4. Social computing
 5. ...
 
-All the best for your career and life!
+All the best for your career and life. Good luck for your career, and remember, to assist those technical entrepreneur. 
 Ruimeng, from Urbana

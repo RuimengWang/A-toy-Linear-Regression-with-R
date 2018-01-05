@@ -1,4 +1,6 @@
 # A-toy-Linear-Regression-with-R for quantities finance starters
+There will be a large file that includes everything(Just like a Goulash, or Chinese-hotpot, called "Final.txt"), and many components of the big file. 
+
 In this project, I will use R programming to finish a toy linear regression analysis to an excel dataset. I decided to write this because two of my friends meet huge problems when they just start their career as quants in VC and they just know nothing about R. The R code that their boss give them are poorly organized and would be very hard to be used as references. 
 
 This is an R-program. There is an integrated one as well many components. 

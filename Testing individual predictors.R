@@ -1,0 +1,5 @@
+> fit1=lm(Species~Area+Elevation+Nearest+Scruz+Adjacent,data=gala)
+> fit2=lm(Species~Area+Elevation+Nearest,data=gala)
+> SSEF=deviance(fit1)
+> SSER=deviance(fit2)
+> F_STAT=((SSER-SSEF)/2)/(SSEF/df.residual(fit1))

@@ -9,7 +9,7 @@ In this file, that is the core program. You just need to copy and paste that one
 All the others:
 That is the components of the main_program. There might get some differences because I want to make things to be easier.
 
-With this code, you could easily transformed that into quantitive finance or social computing. You could be imaginative about how to use that. 
+With this code, you could easily transformed that into quantitive finance or social computing. You could be imaginative about how to use that. (The end, if you want to save your time)
 
 
 

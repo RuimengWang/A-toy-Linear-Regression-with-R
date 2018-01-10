@@ -1,6 +1,31 @@
 # A-toy-Linear-Regression-with-R for quantities finance starters
 There will be a large file that includes everything(Just like a Goulash, or Chinese-hotpot, called "Final.txt"), and many components of the big file. 
 
+If you are just saving your time: 
+1. the training.csv is a set of cancer-gene data. 
+In this file, health is the health condition of the 290 different patients. And from PCDF12, DLG5 to ANKIB1 that is the "performance" of different genes. In this problem we are going to establish a LINEAR REGRESSION model between the health condition(y) and the genes(Some of them may not be used in our modeling)
+2. the main_program is the R program for this problem.
+In this file, that is the core program. You just need to copy and paste that one to your R studio and then it could work.
+All the others:
+That is the components of the main_program. There might get some differences because I want to make things to be easier.
+
+With this code, you could easily transformed that into quantitive finance or social computing. You could be imaginative about how to use that. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In this project, I will use R programming to finish a toy linear regression analysis to an excel dataset. I decided to write this because two of my friends meet huge problems when they just start their career as quants in VC and they just know nothing about R. The R code that their boss give them are poorly organized and would be very hard to be used as references. 
 
 This is an R-program. There is an integrated one as well many components. 

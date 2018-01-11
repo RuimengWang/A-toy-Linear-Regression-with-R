@@ -5,6 +5,7 @@ If you are just saving your time:
 1. the training.csv is a set of cancer-gene data. 
 In this file, health is the health condition of the 290 different patients. And from PCDF12, DLG5 to ANKIB1 that is the "performance" of different genes. In this problem we are going to establish a LINEAR REGRESSION model between the health condition(y) and the genes(Some of them may not be used in our modeling)
 2. the main_program is the R program for this problem.
+Using a word document because there are a lot of graphs in it.
 In this file, that is the core program. You just need to copy and paste that one to your R studio and then it could work.
 All the others:
 That is the components of the main_program. There might get some differences because I want to make things to be easier.
